@@ -9,4 +9,4 @@ This is PBL project made with  C language
 
 ## Option 1
 
-![Screenshot](./src/Opt. 1.png)
+![Screenshot](./src/Opt.%201.png)
