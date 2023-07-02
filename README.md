@@ -5,8 +5,8 @@ This is PBL project made with  C language
 
 ## Main Screen
 
-![Screenshot](main.png)
+![Screenshot](./src/main.png)
 
 ## Option 1
 
-![Screenshot](Opt. 1.png)
+![Screenshot](./src/Opt. 1.png)
